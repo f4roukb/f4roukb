@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an [EPFL](https://www.linkedin.com/in/faroukb)-trained AI/ML engineer specializing in production-grade generative AI systems. I bridge the gap between cutting-edge R&D and production systems at scale.
+I'm an [EPFL](https://www.epfl.ch/en/)-trained AI/ML engineer specializing in production-grade generative AI systems. I bridge the gap between cutting-edge R&D and production systems at scale.
 
 ## Open-Source & Collaboration
 

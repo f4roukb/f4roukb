@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Farouk 👋
 
-<!--
-**f4roukb/f4roukb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm an [EPFL](https://www.linkedin.com/in/faroukb)-trained AI/ML engineer specializing in production-grade generative AI systems. I bridge the gap between cutting-edge R&D and production systems at scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open-Source & Collaboration
+
+I actively contribute to open-source AI/ML projects. I'm always open to collaboration especially in the areas of deep learning, NLP systems (e.g., AI agents) and AI infrastructure. Feel free to reach out directly via [LinkedIn](https://www.linkedin.com/in/faroukb).
+
+## Tech Stack
+
+**AI & Deep Learning**
+`LangChain` `LangGraph` `LangSmith` `MCP` `PyTorch` `Transformers` `PEFT` `vLLM` `FSDP` `AWS SageMaker` `AWS Bedrock` `Weights & Biases` `ONNX`
+
+**Software & Infrastructure**
+`AWS Cloud` `FastAPI` `Docker` `Kubernetes` `Redis` `PostgreSQL` `Apache Kafka` `CI/CD` `Datadog`
+
+**Data Science**
+`Apache Spark` `Polars` `Scikit-learn` `SpaCy` `Neo4j`
+
+**Languages**
+`Python` `Java` `C++` `SQL` `Cypher`

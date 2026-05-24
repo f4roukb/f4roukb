@@ -5,7 +5,7 @@ Applied AI engineer bridging research and production, with a track record of ope
 ## Open Source
 
 Owner and maintainer of:
-- `open-data-sci`
+- **OpenDataSci** (`open-data-sci`) 
 
 Active contributor to:
 - **LangChain** (`langchain-aws`)

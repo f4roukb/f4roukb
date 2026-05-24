@@ -1,23 +1,33 @@
 # Hi, I'm Farouk 👋
 
-## About Me
+Applied AI engineer bridging research and production, with a track record of open-source contributions. I turn ideas into AI systems that run at scale.
 
-I'm an [EPFL](https://www.epfl.ch/en/)-trained AI/ML engineer specializing in production-grade generative AI systems. I bridge the gap between R&D and production systems at scale.
+---
 
-## Open-Source & Collaboration
+## Open Source
 
-I actively contribute to open-source AI/ML projects. I'm always open to collaboration especially in the areas of deep learning, NLP systems (e.g., AI agents) and AI infrastructure. Feel free to reach out directly via [LinkedIn](https://www.linkedin.com/in/faroukb).
+Owner and maintainer of:
+- `open-data-sci`
 
-## Tech Stack
+Active contributor to:
+- **LangChain** (`langchain-aws`)
 
-**AI & Deep Learning**
-`LangChain` `LangGraph` `LangSmith` `MCP` `PyTorch` `Transformers` `PEFT` `vLLM` `FSDP` `AWS SageMaker` `AWS Bedrock` `Weights & Biases` `ONNX`
+Contributed to:
+- **Redis** (`agent-memory-server`)
+- **Oracle** (`agent-spec`)
 
-**Software & Infrastructure**
-`AWS Cloud` `FastAPI` `Docker` `Kubernetes` `Redis` `PostgreSQL` `Apache Kafka` `CI/CD` `Datadog`
+---
 
-**Data Science**
-`Apache Spark` `Polars` `Scikit-learn` `SpaCy` `Neo4j`
+## Education
 
-**Languages**
-`Python` `Java` `C++` `SQL` `Cypher`
+[EPFL](https://www.epfl.ch/en/) MSc Data Science & Financial Engineering · BSc Communication Systems (ranked 3rd/103)
+
+---
+
+## Let's Connect!
+
+If you're working on something ambitious in AI agents, LLMs, or AI infrastructure — I'm always up for a conversation. [Reach out on LinkedIn](https://www.linkedin.com/in/faroukb).
+
+---
+
+*This page was generated with AI assistance.*

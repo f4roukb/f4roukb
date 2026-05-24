@@ -1,6 +1,6 @@
 # Hi, I'm Farouk 👋
 
-Applied AI engineer bridging research and production, with a track record of open-source contributions. I turn ideas into AI systems that run at scale.
+Applied AI engineer bridging research and production, with a track record of open-source contributions. **I develop ideas and turn them into AI systems that run at scale.**
 
 ## Open Source
 

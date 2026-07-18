@@ -2,17 +2,8 @@
 
 Applied AI Engineer with 2+ years developing and shipping AI systems at scale from R&D to production in tech. Actively contributing to open-source projects used by millions (LangChain, Redis). MSc. in Data Science graduate from EPFL, among top of cohort.
 
-## Open Source
-
 Owner and maintainer of:
 - **OpenDataSci** (`open-data-sci`) 
-
-Active contributor to:
-- **LangChain** (`langchain-aws`)
-
-Contributed to:
-- **Redis** (`agent-memory-server`)
-- **Oracle** (`agent-spec`)
 
 ## Education
 

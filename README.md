@@ -1,6 +1,6 @@
 # Hi, I'm Farouk 👋
 
-Applied AI engineer bridging research and production, with a track record of open-source contributions. **I develop ideas and turn them into AI systems that run at scale.**
+Applied AI Engineer with 2+ years developing and shipping AI systems at scale from R&D to production in tech. Actively contributing to open-source projects used by millions (LangChain, Redis). MSc. in Data Science graduate from EPFL, among top of cohort.
 
 ## Open Source
 

@@ -21,7 +21,3 @@ Contributed to:
 ## Let's Connect!
 
 If you're working on something ambitious in AI. I'm always up for a conversation. Let's connect on [LinkedIn](https://www.linkedin.com/in/faroukb)!
-
----
-
-*This page was generated with AI assistance.*

@@ -7,7 +7,7 @@ Owner and maintainer of:
 
 ## Education
 
-[EPFL](https://www.epfl.ch/en/) MSc Data Science & Financial Engineering · BSc Communication Systems (ranked 3rd/103)
+[EPFL](https://www.epfl.ch/en/) MSc. in Data Science, Minor in Financial Engineering · BSc. in Communication Systems
 
 ## Let's Connect!
 

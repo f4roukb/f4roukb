@@ -1,6 +1,6 @@
 # Hi, I'm Farouk 👋
 
-Applied AI Engineer with 2+ years developing and shipping AI systems at scale from R&D to production in tech. Actively contributing to open-source projects used by millions (LangChain, Redis). MSc. in Data Science graduate from EPFL, among top of cohort.
+Applied AI Engineer with 2+ years developing and shipping AI/ML systems at scale from R&D to production in tech. Actively contributing to popular OSS projects (e.g., LangChain, Redis). MSc. in Data Science graduate from EPFL, among top of cohort.
 
 Owner and maintainer of:
 - **OpenDataSci** (`open-data-sci`) 

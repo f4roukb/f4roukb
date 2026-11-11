@@ -1,6 +1,6 @@
 # Hi, I'm Farouk 👋
 
-Applied AI Engineer with 2+ years developing and shipping AI/ML systems at scale from R&D to production in tech. Actively contributing to popular OSS projects (e.g., LangChain, Redis). MSc. in Data Science graduate from [EPFL](https://www.epfl.ch/en/), among top of cohort.
+Applied AI Engineer with 2+ years of experience developing and shipping AI solutions at scale from research to production. Active contributor to popular open-source projects. Inventor of 3 pending U.S. patent applications in NLP. EPFL MSc graduate in Data Science, top of cohort.
 
 Maintaining:
 - [OpenDataSci](https://pypi.org/project/open-data-sci/)

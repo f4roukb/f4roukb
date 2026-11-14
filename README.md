@@ -1,17 +1,22 @@
 # Hi, I'm Farouk 👋
 
-Machine Learning Engineer with 2+ years of experience taking AI solutions from research to production at scale. Active contributor to popular open-source projects. Inventor of 3 pending U.S. patent applications in NLP. EPFL MSc graduate in Data Science (top of cohort).
+## 🧑‍💻 About Me
 
-## Maintaining
+- Machine Learning Engineer with 2+ years of experience taking AI solutions from research to production at scale.
+- Active contributor to popular open-source projects.
+- Inventor of 3 pending U.S. patent applications in NLP.
+- EPFL MSc graduate in Data Science (top of cohort).
+
+## 🛠️ Maintaining
 
 - [OpenDataSci](https://pypi.org/project/open-data-sci/)
 
-## Contributed to
+## 🤝 Contributed
 
 - Hugging Face: [sentence-transformers](https://github.com/huggingface/sentence-transformers)
 - LangChain: [langchain-aws](https://github.com/langchain-ai/langchain-aws)
 - Redis: [agent-memory-server](https://github.com/redis/agent-memory-server)
 
-## Let's Connect!
+## 📫 Let's Connect!
 
 If you're working on ambitious AI projects, let's connect on [LinkedIn](https://www.linkedin.com/in/faroukb)!

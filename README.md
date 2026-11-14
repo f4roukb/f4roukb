@@ -9,7 +9,7 @@
 
 ## 🛠️ Maintaining
 
-- [OpenDataSci](https://pypi.org/project/open-data-sci/)
+- [OpenDataSci](https://pypi.org/project/open-data-sci/) (claude-code-style CLI tool for DS/ML)
 
 ## 🤝 Contributed
 

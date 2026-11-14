@@ -20,7 +20,7 @@
 ## 🧠 Open-weights Models
 
 ### Embedding Models 
-- [denserepr-code-48M-pretrain-EN-v1](https://huggingface.co/f4roukb/denserepr-code-48M-pretrain-EN-v1)
+- [denserepr-code-48M-pretrain-EN-v1](https://huggingface.co/f4roukb/denserepr-code-48M-pretrain-EN-v1) (dense code retriever)
 
 ## 📫 Let's Connect!
 

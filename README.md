@@ -17,7 +17,7 @@
 - LangChain: [langchain-aws](https://github.com/langchain-ai/langchain-aws)
 - Redis: [agent-memory-server](https://github.com/redis/agent-memory-server)
 
-## 🧠 Open-weights Models
+## 🧠 Open-weight Models
 
 ### Embedding Models 
 - [denserepr-code-48M-pretrain-EN-v1](https://huggingface.co/f4roukb/denserepr-code-48M-pretrain-EN-v1) (dense code retriever)

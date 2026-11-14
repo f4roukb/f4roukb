@@ -19,4 +19,4 @@
 
 ## 📫 Let's Connect!
 
-If you're working on ambitious AI projects, let's connect on [LinkedIn](https://www.linkedin.com/in/faroukb)!
+If you're working on ambitious AI/ML projects, let's connect on [LinkedIn](https://www.linkedin.com/in/faroukb)!

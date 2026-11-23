@@ -8,10 +8,6 @@
 - Inventor of 3 pending U.S. patent applications in NLP.
 - EPFL MSc graduate in Data Science (top of cohort).
 
-## 🛠️ Maintaining
-
-- [OpenDataSci](https://pypi.org/project/open-data-sci/) (claude-code-style CLI tool for DS/ML)
-
 ## 🤝 Contributed
 
 - Hugging Face: [sentence-transformers](https://github.com/huggingface/sentence-transformers)
@@ -23,6 +19,10 @@
 ### Embedding Models 
 - [denserepr-code-48M-EN-v1](https://huggingface.co/f4roukb/denserepr-code-48M-EN-v1) (fine-tuned, frontier embedding model for code information)
 - [denserepr-code-48M-pretrain-EN-v1](https://huggingface.co/f4roukb/denserepr-code-48M-pretrain-EN-v1) (pretrained, frontier dense embedding model for code information)
+
+## 🛠️ Maintaining
+
+- [OpenDataSci](https://pypi.org/project/open-data-sci/) (claude-code-style CLI tool for DS/ML)
 
 ## 📫 Let's Connect!
 

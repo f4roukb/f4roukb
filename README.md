@@ -4,7 +4,7 @@
 
 - Machine Learning Engineer with 2+ years of experience taking AI/ML solutions from research to production at scale.
 - Active contributor to popular open-source projects.
-- Active developer of open-source models.
+- Active developer of open-source, open-weights AI models.
 - Inventor of 3 pending U.S. patent applications in NLP.
 - EPFL MSc graduate in Data Science (top of cohort).
 

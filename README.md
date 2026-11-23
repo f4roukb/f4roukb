@@ -2,8 +2,9 @@
 
 ## 🧑‍💻 About Me
 
-- Machine Learning Engineer with 2+ years of experience taking AI solutions from research to production at scale.
+- Machine Learning Engineer with 2+ years of experience taking AI/ML solutions from research to production at scale.
 - Active contributor to popular open-source projects.
+- Active developer of open-source models.
 - Inventor of 3 pending U.S. patent applications in NLP.
 - EPFL MSc graduate in Data Science (top of cohort).
 
@@ -20,7 +21,8 @@
 ## 🧠 Open-weight Models
 
 ### Embedding Models 
-- [denserepr-code-48M-pretrain-EN-v1](https://huggingface.co/f4roukb/denserepr-code-48M-pretrain-EN-v1) (frontier small dense retriever for code)
+- [denserepr-code-48M-EN-v1](https://huggingface.co/f4roukb/denserepr-code-48M-EN-v1) (fine-tuned, frontier embedding model for code information)
+- [denserepr-code-48M-pretrain-EN-v1](https://huggingface.co/f4roukb/denserepr-code-48M-pretrain-EN-v1) (pretrained, frontier dense embedding model for code information)
 
 ## 📫 Let's Connect!
 
